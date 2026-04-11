@@ -48,5 +48,5 @@ KMeans (non supervisé) : 4 clusters de clients identifiés
 ## Dataset
 
 Source : Kaggle - Hotel Booking Demand
-Lien : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+Lien : https://www.kaggle.com/datasets/muhammaddawood42/hotel-booking-cancelations
 Volume : 119 390 réservations, 36 variables
